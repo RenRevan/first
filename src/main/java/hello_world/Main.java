@@ -2,6 +2,6 @@ package hello_world;
 
 public class Main {
     public static void main(String[] arg){
-        System.out.println("Hello strange world");
+        System.out.println("Hello strange world and animals");
     }
 }
